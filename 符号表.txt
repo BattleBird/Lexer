@@ -1,0 +1,7 @@
+[符号]          [符号类型信息]
+
+integer			id
+ture			id
+end			id
+begin			id
+a4			id

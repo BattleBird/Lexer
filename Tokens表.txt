@@ -1,0 +1,13 @@
+[符号]  
+
+begin
+;
+end
+;
+integer
+a4
+;
+if
+;
+ture
+;
