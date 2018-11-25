@@ -12,7 +12,6 @@ public class Main {
 
         /* 保存相关信息 */
         lexer.saveTokens();
-        lexer.peek();
         lexer.saveSymbolsTable();
 
     }
